@@ -15,9 +15,6 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Hallo zusammen",
   description: "made by vyv",
-  openGraph: {
-    images: "/IMG_4024.png",
-  },
 };
 
 export default function RootLayout({
