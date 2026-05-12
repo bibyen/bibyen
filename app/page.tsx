@@ -53,7 +53,7 @@ export default function BatoBatoApp() {
                   if (status === "wrong") setStatus("typing");
                 }}
                 className="w-[220px] rounded-full bg-white/10 border border-white/30 px-5 py-2 text-white outline-none backdrop-blur-md focus:border-white/60 transition-all text-center"
-                placeholder="Type here..."
+                placeholder="type answer here..."
               />
 
               <button
@@ -66,7 +66,7 @@ export default function BatoBatoApp() {
 
             {status === "wrong" && (
               <p className="text-white text-sm font-medium animate-bounce">
-                Try again : )
+                try again? : )
               </p>
             )}
           </div>
