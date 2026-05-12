@@ -1,6 +1,6 @@
 ## Vyv Bautista
 
-Software Engineer who asks 100 questions upfront so they don't have to spend 100 hours on the wrong problem later.
+Platform Engineer @ Traild
 
 https://www.linkedin.com/in/vyviennebautista/
 
@@ -28,8 +28,6 @@ https://www.linkedin.com/in/vyviennebautista/
 
 ## Projects
 
-What I’m building, refining, over-optimising, and then trimming down.
-
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="24" height="24" style="vertical-align:middle; margin-right:8px;" /> posta-baut
 
 A Go package and service for sending Microsoft Teams messages.  
@@ -46,7 +44,7 @@ Go backend using HTTP + gRPC.
 
 ### 🧅 Donkey's Debug Diary - my Shrek blog
 
-I write about lessons I wish I learned earlier. Nothing too technical.
+I write about lessons I wish I learned earlier! Nothing (too) technical.
 
 https://donkeysdebugdiary.hashnode.dev/
 
