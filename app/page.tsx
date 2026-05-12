@@ -26,7 +26,7 @@ export default function BatoBatoApp() {
     <main className="relative h-screen w-full overflow-hidden bg-black">
       {/* 2. BACKGROUND IMAGE: Ensure IMG_4024.png is in your /public folder */}
       <Image
-        src="/IMG_4024.png"
+        src="IMG_4024.png"
         alt="Background"
         fill
         className="object-cover opacity-80"
@@ -75,7 +75,7 @@ export default function BatoBatoApp() {
           <div className="animate-in fade-in zoom-in duration-500 flex flex-col items-center">
             <div className="relative h-80 w-80 overflow-hidden rounded-[2rem] border-[6px] border-white shadow-2xl">
               <Image
-                src="/IMG_4025.png"
+                src="IMG_4025.png"
                 alt="Success"
                 fill
                 className="object-cover"
