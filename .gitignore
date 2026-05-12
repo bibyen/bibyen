@@ -1,1 +1,10 @@
+# Dependencies
 node_modules/
+
+# Next.js Build Output
+.next/
+out/
+
+# Production Build Logs
+build/
+dist/
